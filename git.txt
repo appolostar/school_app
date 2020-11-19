@@ -1,0 +1,7 @@
+git add .
+git commit
+git init
+git clone 
+git add .
+git commit -m
+注册钥匙ssh-keygen -t rsa
